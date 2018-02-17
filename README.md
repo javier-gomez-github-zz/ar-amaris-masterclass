@@ -1,2 +1,2 @@
-# lunch-and-learn-vp-ar
-Lunch and Learn - Velocity Partners - Augmented Reality
+# ar-amaris-masterclass
+Masterclass - Amaris (Barcelona) - Realidad Aumentada
